@@ -1,7 +1,7 @@
 # 🎬 Tubys Neshy Pro - YouTube Downloader
 
 <p align="center">
-<img src="https://i.ibb.co/chwqh0hm/program.png" width="300" alt="Tubys Neshy Pro Screenshot">
+<img src="https://i.ibb.co/chwqh0hm/program.png" width="400" alt="Tubys Neshy Pro Screenshot">
 </p>
 
 Tubys Neshy Pro é um aplicativo desktop para baixar vídeos e áudios do YouTube com interface amigável e recursos avançados.
