@@ -106,4 +106,4 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para m
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
 
-Desenvolvido com ❤️ por [DELIRIO OU YSNESHY]
+< Desenvolvido com ❤️ por [ || DELIRIO OU YSNESHY  || ] >
