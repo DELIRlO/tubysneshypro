@@ -1,1 +1,4 @@
-https://www.youtube.com/watch?v=zKTNXUA7lWI
+obs: se vc chegou aqui e programa nao esta abrindo vc tem que ter ffmpeg.exe na mesma pasta pois ele e o converso 
+baixe da internet instalador ou programa completo essa parte e com voces obrigado e aproveitem programa 
+
+endereco de exemplo para teste apenas : https://www.youtube.com/watch?v=zKTNXUA7lWI
